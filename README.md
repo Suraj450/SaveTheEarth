@@ -1,2 +1,2 @@
 # SaveTheEarth
-Ant man will go inside the thanos and then increase his size, so thanos will burst.
+Ant man will go inside , so thanos will burst.
