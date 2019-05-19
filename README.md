@@ -1,2 +1,2 @@
 # SaveTheEarth
-Ant man will go inside the thanos and then increase his size, so thanos will burst.
+iron man will use stone to kill thanos and also for save himself.
