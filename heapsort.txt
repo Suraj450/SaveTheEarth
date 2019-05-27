@@ -44,7 +44,7 @@ void heapSort(int arr[], int n)
 }
 
 // Driver program
-main()
+int main()
 {
     int n ;
    cout<<"enter no. of elements";
